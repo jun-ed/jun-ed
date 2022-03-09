@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" src="https://github.com/jun-ed/jun-ed/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a FullStack WebDeveloper, Computer Science Engineer, Artificial Intelligence Enthusiast and Teacher!!
+## I'm a C++ Developer - Software Development Engineer || Likes to Develope Web FullStack || Artificial Intelligence Enthusiast || Teacher!!
  
 - 🌱 I’m currently Working as C++ Backend Developer 
 - 👯 I’m looking to collaborate with other developers
