@@ -7,7 +7,7 @@
 
 ## I'm a FullStack WebDeveloper, Computer Science Engineer, Artificial Intelligence Enthusiast and Teacher!!
  
-- 🌱 I’m currently Working as C++ Bacend Developer 
+- 🌱 I’m currently Working as C++ Backend Developer 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Contribute more to Open Source projects, and work on .NET, MERN && Java based projects
 - ⚡ Fun fact: I love to automate my tasks with programming
