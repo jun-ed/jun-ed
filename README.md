@@ -1,16 +1,12 @@
 ### Hi there, I'm Juned Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 ![github](https://img.shields.io/github/followers/jugof?style=social)
 
   <img align="right" alt="GIF" src="https://github.com/jugof/jugof/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a  FullStack WebDeveloper,Computer Science Engineer,Artificial Intelligence Enthusiast and Teacher!!
-
--  
+## I'm a  FullStack WebDeveloper, Computer Science Engineer, Artificial Intelligence Enthusiast and Teacher!!
+ 
 - 🌱 I’m currently Working on Java based projects
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
@@ -18,11 +14,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Juned" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Juned | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Juned" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="Juned | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 [<img align="left" alt="Juned | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Juned | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Juned | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Juned | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 [<img align="left" alt="Juned | whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 <br />
 
@@ -50,10 +46,6 @@
 <br />
 
 ---
-
-
-<!-- YOUTUBE:END -->
-
 
 
 <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400" /> 
