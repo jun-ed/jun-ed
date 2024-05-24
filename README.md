@@ -5,9 +5,9 @@
   <img align="right" alt="GIF" src="https://github.com/jugof/jugof/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a  FullStack WebDeveloper, Computer Science Engineer, Artificial Intelligence Enthusiast and Teacher!!
+## I'm a FullStack WebDeveloper, Computer Science Engineer, Artificial Intelligence Enthusiast and Teacher!!
  
-- 🌱 I’m currently Working on Java based projects
+- 🌱 I’m currently Working on .NET, MERN && Java based projects
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to automate my tasks with programming
