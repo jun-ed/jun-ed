@@ -1,8 +1,8 @@
 ### Hi there, I'm Juned Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![github](https://img.shields.io/github/followers/jugof?style=social)
+![github](https://img.shields.io/github/followers/jun-ed?style=social)
 
-  <img align="right" alt="GIF" src="https://github.com/jugof/jugof/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/jun-ed/jun-ed/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a FullStack WebDeveloper, Computer Science Engineer, Artificial Intelligence Enthusiast and Teacher!!
